@@ -12,7 +12,8 @@ tokens = []
 dictionary = list(set(text.split(" ")))
 
 # Word Segmentation
-spaceFreeText = "vaccinewasproducedbypfizerforcovid"
+# Variants crashed the system
+spaceFreeText = "vaccinevariantswasproducedbypfizerforcovid"
 
 '''WORD SEGMENTATION LOGIC'''
 word = ""
